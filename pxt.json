@@ -1,6 +1,6 @@
 {
     "name": "LEDAnimator",
-    "description": "",
+    "description": "LEDAnimator this is Adobe Animate (Flash) but for micro:bit",
     "dependencies": {
         "core": "*",
         "radio": "*",
